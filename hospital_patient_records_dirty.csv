@@ -1,0 +1,424 @@
+PatientID,Name,Age,Gender,Diagnosis,City,BloodType,HeightCM,WeightKG,SystolicBP,AdmissionDate,HasInsurance,BillingAmount
+5031,Fahad Javed,50.0,female,Asthma, Quetta,,166.6,92.7,105.0,"15 Jan, 2023",1,1858.59
+5200,Nimra Gill,73.0,M,Migrane,Rawalpindi,O+,165.2,92.6,126.0,"23 May, 2023",1,
+5028,Areeba Javed,26.0,female,Asthma,QUETTA,A-,182.3,61.1,106.0,11/2/2021,NO,$3831.58
+5236,Sana Awan,46.0,,Anaemia,RAWALPINDI,AB-,166.9,61.9,116.0,9/18/2024,Yes,PKR 4552.08
+5352,Zoya Dar,67.0,female,Type 2 Diabetes,lahore,,161.0,62.3,134.0,"4 Mar, 2022",NO,
+5001,Ehsan Chaudhry,46.0,?,arthritis,Islamabad ,O+,154.5,84.0,138.0,25/04/2023,NO,1920.53
+5067,Areeba Siddiqui,48.0,f,, Rawalpindi,AB-,146.7,73.6,133.0,1/15/2024,N,PKR 4796.22
+5273,Yusra Javed,36.0,female,Arthritis,Islamabad ,O-,173.6,76.8,145.0,4/21/2024,0,130.2
+5137,Nimra Gill,57.0,male,BRONCHITIS,rawalpindi,B-,156.2,51.8,112.0,"24 Jan, 2024",0,4931.7
+5324,  sidra niazi  ,74.0,MALE,BRONCHITIS,,AB+,162.1,55.6,107.0,2024-11-14,Yes,PKR 3097.99
+5079,Farwa Dar,28.0,MALE,BRONCHITIS,islamabad,AB+,187.6,80.1,125.0,6/5/2023,yes,PKR 4105.41
+5215,Salman Javed,36.0,male,bronchitis,unknown,A-,156.9,79.0,,2024-03-16,yes,
+5108,Naveed Malik  ,,Male,MIGRAINE,FAISALABAD,B+,,99.3,109.0,2/12/2021,Yes,PKR 582.13
+5296,Sidra Baig,37.0,f,hypertension,Multan,A-,168.2,62.2,96.0,2024/12/17,YES,PKR 3188.15
+5070,Zoya Hussain,71.0,female,Anemia,Multan ,B-,159.9,69.2,138.0,2021/10/22,--,1487.08
+5220,Abid Farooq,18.0,f,ARTHRITIS,QUETTA,B-,167.6,38.2,127.0,18/06/2021,0,PKR 1613.21
+5077,Farwa Farooq,,?,,Quetta,B-,159.1,63.2,128.0,"9 Dec, 2021",no,681.53
+5008,Warda Baig,46.0,m,Migraine,Islamabad ,B-,175.0,65.6,,"21 Jan, 2024",no,3366.18
+5125,Komal Gill,65.0,Male,anemia,faisalabad,AB+,156.9,55.1,142.0,2024-01-15,Y,$1312.94
+5327,Nida Sheikh,58.0,?,MIGRAINE,MULTAN,B-,168.3,70.2,139.0,26/04/2024,YES,$3723.98
+5111,Rida Ahmed,182.0,,ANEMIA,LAHORE,O-,150.9,69.1,125.0,04/05/2024,0,$3994.86
+5126,Warda Javed,57.0,male,Asthma,,A+,144.3,308.7,114.0,"21 Feb, 2021",Y,4361.57
+5224,Areeba Khan,52.0,Female,arthritis, Faisalabad,O-,162.3,68.8,116.0,2024/04/11,1,4382.04
+5376,Mariam Farooq,51.0,FEMALE,anemia, Peshawar,A+,176.8,65.7,125.0,"27 Jun, 2021",1,2377.76
+5293,Zoya Chaudhry,14.0,M,, Quetta,AB+,169.7,57.5,106.0,2021/11/10,--,PKR 1744.61
+5274,Adnan Dar,-45.0,MALE,bronchitis,KARACHI,B-,,73.2,123.0,11/2/2022,1,1286.23
+5340,Bilal Awan,59.0,F,hypertension, Quetta,O+,148.8,60.5,102.0,2021/01/27,,200.57
+5062,Ahmed Bhatti,31.0,Male,Diabetes,Lahore,B-,,81.1,128.0,2021-11-10,no,PKR 3305.83
+5314,Rida Farooq,51.0,f,Anaemia,Quetta,A-,171.0,68.9,129.0,2023-06-11,no,729.89
+5380,Adnan Malik,47.0,MALE,Flu,lahore,A-,159.9,73.3,148.0,1/22/2021,No,PKR 1920.34
+5264,Farwa Sheikh,86.0,female,Migraine,,A+,169.8,72.0,130.0,01/01/2024,N,1193.14
+5361,Sana Khan,26.0,FEMALE,,ISLAMABAD,B-,171.4,77.4,114.0,5/16/2022,1,PKR 4093.67
+5232,Mariam Qureshi,30.0,,migraine,Rawalpindi,O+,181.2,69.7,128.0,2021/05/04,Y,4744.86
+5165,Yasir Shah,48.0,female,ARTHRITIS,Karachi ,AB-,158.7,62.5,138.0,3/9/2021,NO,3670.53
+5013,Rida Malik,53.0,,hypertension,Multan ,AB-,179.9,67.6,133.0,2024-05-03,NO,PKR 4592.34
+5098,Rashid Khan,42.0,m,ARTHRITIS,RAWALPINDI,AB-,27.1,359.5,,04/04/2023,no,PKR 627.5
+5136,Saad Qureshi,65.0,m,ANEMIA,karachi,O-,149.3,67.2,141.0,8/6/2022,N,3873.47
+5019,Areeba Chaudhry,19.0,FEMALE,ARTHRITIS, Islamabad,AB-,,99.2,,16/01/2023,N,223.52
+5170,Nida Farooq,,M,Anaemia,islamabad,B+,171.2,41.9,134.0,2021/10/18,N,$1218.61
+5295,Waleed Sheikh,53.0,m,ARTHRITIS,unknown,O-,,57.4,137.0,7/12/2021,N,
+5272,  ehsan qureshi  ,40.0,M,Arthritis,Faisalabad,AB-,164.4,83.5,119.0,2024-01-20,Yes,
+5391,Ehsan Dar,29.0,female,Hypertension,Faisalabad,B+,160.8,82.5,130.0,"8 Apr, 2024",N,$3151.58
+5211,YASIR MALIK,79.0,Male,Athsma, RAWALPINDI,B+,,63.6,,12/09/2024,Y,527.52
+5052,Ehsan Niazi,36.0,Male,ARTHRITIS,Quetta ,A-,156.8,53.8,111.0,"24 Aug, 2024",YES,$3260.15
+5186,Yusra Bhatti,39.0,m,Flu,,A+,151.3,65.2,139.0,2021-07-24,No,PKR 658.81
+5294,Hamid Baig,168.0,f,ANEMIA,LAHORE,B+,169.1,71.2,128.0,"11 Feb, 2021",Yes,PKR 4083.14
+5354,Fahad Iqbal,48.0,F,,RAWALPINDI,A+,161.0,86.8,121.0,26/12/2023,Yes,PKR 2859.93
+5134,  salman iqbal  ,,FEMALE,arthritis,Peshawar,O+,170.9,49.7,104.0,"13 Sep, 2021",1,4095.78
+5184,Komal Ahmed,58.0,female,MIGRAINE, Faisalabad,AB+,175.2,60.8,146.0,2023/09/15,Y,PKR 4513.87
+5072,Yasir Khan,64.0,Female,arthritis,,A-,166.2,62.1,123.0,2024/03/24,1,330.51
+5034,Naveed Javed,27.0,M,arthritis,faisalabad,B-,166.2,76.0,106.0,2024-12-14,Y,$2194.72
+5155,Bilal Khan,33.0,m,,,AB-,182.6,59.2,130.0,2023/05/10,yes,PKR 673.28
+5239,Salman Javed,79.0,Male,diabetes,Faisalabad,O-,156.9,85.2,114.0,3/9/2022,,2803.58
+5068,Naveed Khan,27.0,m,Bronchitis,ISLAMABAD,A+,151.9,42.1,131.0,2021-04-18,NO,2488.61
+5003,Warda Niazi,,F,anemia,MULTAN,B+,172.0,82.7,120.0,2021-05-18,NO,PKR 4481.97
+5234,Zoya Bhatti,38.0,M,Anaemia, Multan,A-,174.0,82.8,95.0,2023/11/08,No,PKR 2312.69
+5393,AHMED MALIK,22.0,male,ANEMIA,RAWALPINDI,A-,152.8,69.1,119.0,"14 Feb, 2022",--,PKR 2646.75
+5119,Mariam Raza,47.0,Female,Migrane,rawalpindi,B+,164.9,93.0,146.0,7/16/2024,No,696.85
+5137,Nimra Gill,57.0,male,BRONCHITIS,rawalpindi,B-,156.2,51.8,112.0,"24 Jan, 2024",0,4931.7
+5059,Sana Chaudhry,29.0,MALE,diabetes,Quetta,B-,162.2,,143.0,2022-09-26,Yes,2082.01
+5375,Hamid Gill,40.0,FEMALE,DIABETES,islamabad,B-,10.5,55.2,111.0,2024/12/16,1,
+5030,Yasir Hussain,19.0,MALE,Flu, Peshawar,B+,158.5,52.4,104.0,"5 Mar, 2021",yes,$4641.2
+5045,Yusra Awan,57.0,FEMALE,diabetes,Lahore,A+,164.1,83.8,131.0,11/19/2023,0,$3841.17
+5396,Waleed Farooq,55.0,MALE,Bronchitis,peshawar,O-,161.5,66.1,121.0,9/8/2022,N,$2542.96
+5275,Salman Shah,17.0,?,ASTHMA,FAISALABAD,O+,161.5,61.4,124.0,"16 Oct, 2021",0,PKR 1423.11
+5038,Yasir Ahmed,10.0,MALE,anemia,Islamabad ,A+,159.0,76.2,130.0,2023-10-14,YES,$4783.74
+5377,Hira Shah  ,49.0,female,FLU,islamabad,B+,167.3,55.3,116.0,24/09/2023,1,1148.6
+5268,Warda Baig,74.0,male,asthma,Islamabad,A-,161.6,48.1,141.0,09/07/2023,Yes,3354.43
+5168,Saad Qureshi,,MALE,MIGRAINE,RAWALPINDI,B-,142.3,78.6,123.0,4/22/2023,0,PKR 1257.46
+5253,Bilal Shah,63.0,,asthma,peshawar,AB+,169.5,97.0,116.0,01/12/2024,--,PKR 1875.37
+5208,Rida Chaudhry,48.0,M,,Multan,AB+,174.1,90.0,110.0,2024/05/02,NO,PKR 4467.51
+5102,SHOAIB NIAZI,29.0,MALE,influenza, Quetta,O-,173.1,47.5,127.0,"16 Feb, 2021",yes,PKR 3562.86
+5152,Mehwish Baig,57.0,F,arthritis, Karachi,O-,167.8,53.0,130.0,2024-02-23,N,PKR 3614.86
+5201,Anila Raza,49.0,m,Anemia,RAWALPINDI,B+,182.2,89.2,123.0,"21 Jan, 2024",N,PKR 2403.67
+5091,Mehwish Gill,48.0,Female,Migrane,unknown,,169.3,85.1,127.0,08/10/2024,Y,4790.65
+5381,Sana Baig,,F,FLU, Karachi,A-,152.2,59.8,140.0,12/7/2021,Y,PKR 3256.44
+5326,Farwa Hussain,50.0,female,arthritis,LAHORE,A+,172.2,63.8,126.0,"17 Apr, 2023",YES,4938.24
+5349,Ehsan Iqbal,25.0,m,FLU,MULTAN,AB+,141.6,44.0,151.0,10/10/2022,1,$527.2
+5365,Mariam Gill,43.0,M,Diabetis,ISLAMABAD,A+,172.1,45.4,100.0,2024-02-05,YES,1226.36
+5331,SANA JAVED,17.0,F,, Quetta,B+,171.3,78.3,132.0,"8 Oct, 2023",YES,123.29
+5266,Salman Malik,153.0,M,Influenza,,O+,165.6,72.9,112.0,3/23/2023,,3705.78
+5115,  sana malik  ,39.0,MALE,ANEMIA,Lahore,O-,,63.0,,2022-12-12,,427.34
+5276,Yasir Bhatti,39.0,female,ARTHRITIS,Faisalabad,B+,176.7,80.8,159.0,17/06/2024,yes,
+5107,Fahad Malik,65.0,Female,diabetes,Faisalabad ,A-,187.0,88.3,138.0,2023/06/20,no,PKR 188.66
+5277,Mariam Dar,42.0,f,Diabetes,Karachi,B+,,82.5,112.0,6/4/2021,yes,$789.76
+5164,  warda chaudhry  ,42.0,female,Type 2 Diabetes,,A-,175.4,75.2,90.0,2024/11/01,,$1130.29
+5014,Areeba Butt,47.0,Female,ARTHRITIS,quetta,AB+,,78.1,131.0,2024/10/10,No,PKR 3396.84
+5120,Sana Dar,44.0,f,bronchitis,unknown,AB-,,,121.0,20/06/2021,Y,3830.18
+5238,Rida Khan,54.0,,diabetes, Islamabad,AB-,153.4,67.7,104.0,2022-10-12,Y,$4149.61
+5153,Saad Shah,17.0,?,HYPERTENSION, Islamabad,AB-,185.1,47.7,108.0,08/07/2024,No,PKR 3608.45
+5392,Zoya Qureshi,1.0,F,hypertension, Karachi,AB+,177.6,79.1,125.0,2023-10-25,N,2053.19
+5206,Mariam Awan,69.0,M,Migrane, Lahore,AB+,157.9,86.0,105.0,2023/01/03,1,2601.98
+5113,Nimra Awan,52.0,Female,,,AB+,171.0,75.6,136.0,07/03/2023,0,847.01
+5135,Abid Shah,24.0,MALE,Hypertension,QUETTA,O+,176.3,68.1,114.0,"17 Feb, 2023",Y,$62.02
+5074,Nimra Khan,24.0,MALE,FLU,LAHORE,AB+,159.7,66.4,131.0,3/14/2021,N,PKR 4378.21
+5359,Abid Baig,39.0,F,Migrane,unknown,B+,170.4,89.9,145.0,2021-12-13,N,PKR 3000.64
+5363,Fahad Awan,,MALE,Migraine,Multan ,O-,132.7,77.6,129.0,"20 Sep, 2022",N,$2229.29
+5235,Komal Farooq,20.0,MALE,Asthma,lahore,O-,173.8,70.2,111.0,2021-10-01,no,PKR 3135.37
+5347,Mariam Gill,42.0,?,Flu, Faisalabad,B-,158.4,101.8,119.0,05/08/2022,,2506.57
+5395,Sana Baig,64.0,m,Diabetis,FAISALABAD,AB-,165.7,64.9,130.0,2/27/2022,--,3419.05
+5106,Kamal Shah,42.0,FEMALE,bronchitis,unknown,O+,167.1,60.8,121.0,2/23/2023,Yes,PKR 2069.78
+5287,Naveed Baig,145.0,FEMALE,migraine, Karachi,O-,162.6,73.2,129.0,"6 Jan, 2022",N,PKR 367.44
+5397,Ahmed Bhatti,54.0,?,Athsma,karachi,B-,,85.1,105.0,8/2/2021,YES,2382.62
+5156,Nimra Chaudhry,,M,Athsma,FAISALABAD,B-,161.7,94.7,150.0,2022-11-25,YES,3619.46
+5101,Bilal Qureshi,44.0,f,BRONCHITIS,Lahore ,A+,155.2,51.9,126.0,02/05/2021,Y,460.48
+5170,Nida Farooq,,M,Anaemia,islamabad,B+,171.2,41.9,134.0,2021/10/18,N,$1218.61
+5270,Komal Butt,36.0,f,n/a,rawalpindi,AB-,160.2,67.4,128.0,2024-04-01,--,4002.08
+5278,Yasir Baig,-47.0,,Anemia, Rawalpindi,B-,180.3,76.2,123.0,04/01/2023,N,3589.25
+5269,Naveed Javed,62.0,male,Hypertension,,A-,166.6,46.4,149.0,2022-11-22,yes,$442.15
+5066,Warda Niazi,69.0,MALE,asthma,Islamabad ,AB-,164.0,79.6,133.0,02/04/2023,Yes,$4854.4
+5193,Yasir Siddiqui,61.0,Female,FLU, Lahore,A-,172.6,52.1,146.0,2022/03/06,0,$1006.97
+5083,Abid Awan,-19.0,Female,Influenza,lahore,A+,,78.5,125.0,2024/11/07,yes,
+5219,Mariam Iqbal,15.0,MALE,bronchitis,Quetta,A-,167.0,63.9,306.0,2024/02/14,No,3237.01
+5358,Hira Iqbal,25.0,Female,anemia,Peshawar ,A-,173.4,62.9,107.0,3/3/2023,1,$2718.22
+5250,Bilal Baig,62.0,Female,BRONCHITIS,Multan ,AB+,154.4,73.1,142.0,2022-02-15,no,932.1
+5093,Ahmed Malik,43.0,Female,Bronchitis,QUETTA,AB+,181.9,64.2,141.0,2021/02/22,YES,3661.84
+5211,YASIR MALIK,79.0,Male,Athsma, Rawalpindi,B+,,63.6,,12/09/2024,Y,527.52
+5338,Ehsan Dar,35.0,,anemia,PESHAWAR,B-,176.9,62.5,122.0,21/07/2023,,
+5055,Sana Hussain,154.0,Female,arthritis,Lahore ,AB+,157.7,80.8,134.0,20/04/2021,NO,2993.77
+5141,Salman Malik,73.0,f,Arthritis,QUETTA,AB-,,58.5,140.0,10/4/2024,YES,PKR 2725.25
+5159,Salman Sheikh,50.0,f,Diabetis,karachi,AB+,152.7,,116.0,5/13/2023,YES,$3178.67
+5110,Rida Siddiqui,67.0,male,ARTHRITIS,Islamabad ,AB-,150.2,54.3,,"24 Oct, 2021",No,4052.89
+5241,Sidra Shah,32.0,,Anaemia,Karachi,B-,151.3,85.0,144.0,2021-07-16,yes,843.19
+5036,  naveed bhatti  ,69.0,male,hypertension,PESHAWAR,AB-,180.3,76.0,,2024-10-25,N,$2011.9
+5322,Hira Dar,45.0,MALE,ARTHRITIS,lahore,,169.6,63.8,144.0,03/12/2021,0,3002.76
+5160,Farwa Hussain,30.0,MALE,MIGRAINE,Rawalpindi,A-,183.9,63.4,134.0,1/17/2024,YES,746.9
+5080,Hira Qureshi,61.0,Female,Hyper tension,Quetta ,B-,150.6,85.1,136.0,6/21/2023,no,PKR 2483.35
+5389,Naveed Dar,32.0,male,ASTHMA,MULTAN,A-,154.3,83.8,140.0,2023/02/24,YES,PKR 3534.82
+5100,Rashid Chaudhry,14.0,,BRONCHITIS,Lahore,AB+,163.7,70.0,,8/21/2024,0,PKR 53.33
+5222,  hira bhatti  ,8.0,FEMALE,Hyper tension,PESHAWAR,B+,,85.7,136.0,4/4/2022,Yes,PKR 476.57
+5047,Anila Bhatti,37.0,MALE,DIABETES, Multan,A+,177.7,49.9,118.0,04/02/2023,N,PKR 1951.04
+5123,MARIAM QURESHI,31.0,male,Bronchitis,LAHORE,A+,166.1,77.9,144.0,2023-06-22,YES,$2822.86
+5255,Rida Hussain,36.0,Male,High Blood Pressure,Islamabad,AB+,157.5,97.9,101.0,5/7/2024,yes,3919.72
+5260,Adnan Raza,66.0,F,Bronchitis,Lahore ,O+,177.1,107.8,101.0,11/03/2021,Yes,PKR 3338.26
+5163,MARIAM SIDDIQUI,9.0,Female,Influenza,faisalabad,O-,163.1,94.0,147.0,2021/02/20,YES,PKR 1699.65
+5394,Ehsan Sheikh  ,31.0,M,migraine,rawalpindi,A+,175.7,59.6,125.0,2021-03-02,1,
+5035,Nimra Niazi,28.0,?,Asthma,Faisalabad ,O+,160.5,83.0,122.0,22/07/2022,N,$4087.37
+5393,Ahmed Malik,22.0,male,ANEMIA,rawalpindi,A-,152.8,69.1,119.0,"14 Feb, 2022",--,PKR 2646.75
+5010,Adnan Baig,13.0,Female,diabetes,karachi,AB+,170.5,80.5,139.0,2024-01-04,,$1847.22
+5288,Yusra Chaudhry,5.0,female,Bronchitis,,B-,159.2,68.9,118.0,2023-08-18,yes,$3091.89
+5228,Komal Siddiqui,71.0,F,DIABETES,MULTAN,AB-,182.9,,128.0,"13 Feb, 2023",1,3561.47
+5341,Hamid Hussain,36.0,?,Migrane,Lahore ,O+,157.5,54.1,,2022/12/25,0,1310.05
+5128,Shoaib Khan,60.0,Male,Migraine,Islamabad ,A+,171.2,,128.0,2022-03-22,Yes,188.23
+5132,Salman Niazi,32.0,Female,High Blood Pressure,Rawalpindi,AB+,165.6,99.8,120.0,"8 Jan, 2021",,PKR 1027.24
+5350,Kamal Qureshi,42.0,FEMALE,Flu,Rawalpindi,B-,170.0,93.1,127.0,23/09/2021,N,566.78
+5301,Ahmed Qureshi,51.0,FEMALE,,lahore,B-,166.4,64.1,75.0,27/09/2024,Yes,2907.29
+5021,Naveed Awan,39.0,male,BRONCHITIS,Lahore,AB+,162.2,77.6,138.0,"4 Sep, 2023",NO,PKR 2742.53
+5063,Saad Farooq,,f,High Blood Pressure,,O-,168.4,48.2,124.0,"1 Jan, 2023",Y,PKR 4275.34
+5084,Rashid Iqbal,67.0,FEMALE,n/a, Multan,B-,159.2,,145.0,9/15/2024,Yes,2231.03
+5081,Kamal Iqbal,39.0,,Diabetis,rawalpindi,AB+,165.6,42.1,108.0,"7 Jan, 2022",0,3695.52
+5069,Abid Javed,46.0,F,High Blood Pressure, Quetta,B+,168.1,59.4,113.0,2022-01-11,,$3997.11
+5054,Yusra Ahmed,63.0,f,bronchitis, Islamabad,AB+,174.9,62.7,92.0,7/15/2021,Y,2392.83
+5300,Farwa Awan,52.0,,,peshawar,O+,150.6,65.9,,2022/10/03,Y,$733.6
+5388,Ahmed Qureshi,15.0,FEMALE,ASTHMA, Faisalabad,O+,152.3,55.9,123.0,2021-02-16,Yes,1577.4
+5197,Rashid Qureshi,51.0,F,hypertension, Karachi,,154.2,69.5,128.0,"15 Feb, 2024",yes,648.85
+5011,Anila Butt,,male,Flu,Faisalabad ,B-,164.9,59.2,109.0,"11 Feb, 2022",NO,PKR 2992.45
+5166,Naveed Gill,72.0,Female,BRONCHITIS,rawalpindi,AB-,166.3,43.5,,2024-12-04,No,PKR 4728.54
+5271,Adnan Malik,50.0,m,ANEMIA,Lahore,A+,167.5,,143.0,2022/07/16,Y,2746.26
+5285,Sidra Ahmed,195.0,female,arthritis,Lahore ,B+,161.1,80.1,124.0,2021-08-03,N,110.55
+5249,Komal Farooq,40.0,F,Flu,ISLAMABAD,O-,172.3,84.5,106.0,06/09/2021,no,PKR 539.8
+5252,Warda Hussain,48.0,F,ASTHMA,Multan,AB+,146.1,84.7,134.0,8/1/2022,no,$253.78
+5227,Yusra Hussain,59.0,male,Bronchitis,KARACHI,B-,171.2,,103.0,2022/02/24,No,PKR 2745.37
+5320,Abid Baig,42.0,male,ARTHRITIS,LAHORE,O+,181.6,63.9,123.0,24/11/2023,Yes,4022.26
+5149,Warda Bhatti,-38.0,female,Bronchitis,KARACHI,B-,156.2,86.1,305.0,"15 Sep, 2024",no,1933.41
+5242,Hira Chaudhry,42.0,m,,unknown,B-,159.2,330.0,110.0,1/2/2023,Y,PKR 3594.13
+5305,Anila Hussain,10.0,Male,FLU,PESHAWAR,B+,180.0,86.8,104.0,2022/07/03,1,PKR 1540.82
+5042,Sana Hussain,79.0,FEMALE,Diabetis,Faisalabad,A+,167.5,57.6,120.0,09/06/2022,Yes,483.38
+5178,Warda Siddiqui,30.0,,Type 2 Diabetes,unknown,AB+,157.9,83.3,120.0,2023-10-21,Y,4130.35
+5122,Mehwish Malik,46.0,female,Bronchitis,Karachi,B-,151.5,81.7,128.0,2022/04/19,,PKR 336.48
+5275,Salman Shah,17.0,?,ASTHMA,FAISALABAD,O+,161.5,61.4,124.0,"16 Oct, 2021",0,PKR 1423.11
+5024,Shoaib Ahmed,77.0,MALE,Type 2 Diabetes,faisalabad,A+,166.3,81.4,123.0,2021-10-01,no,1376.18
+5390,Adnan Iqbal,59.0,,Athsma,QUETTA,O-,169.1,71.6,158.0,"12 Sep, 2022",Y,
+5198,Mehwish Bhatti,48.0,,bronchitis,unknown,B-,164.6,61.6,119.0,16/01/2023,1,$4026.26
+5053,Mehwish Chaudhry  ,-74.0,Male,Bronchitis,,O-,179.1,94.4,123.0,17/01/2023,,PKR 349.65
+5289,Salman Farooq,49.0,FEMALE,n/a, Islamabad,B-,168.4,66.6,119.0,2022-04-19,Yes,1156.96
+5370,Hira Baig,39.0,Female,influenza,karachi,A-,141.2,78.5,,10/10/2023,No,$1813.72
+5071,Salman Awan  ,138.0,female,hypertension,Islamabad,AB+,190.3,53.2,111.0,2022-08-10,yes,$3709.67
+5033,Fahad Dar,40.0,MALE,Anemia,islamabad,B-,169.4,83.4,,2024/07/25,No,1152.37
+5044,Adnan Chaudhry,23.0,f,Anaemia,Peshawar ,A-,169.8,50.4,134.0,23/06/2023,No,1485.11
+5109,Nida Qureshi,76.0,?,High Blood Pressure,islamabad,O+,176.8,78.4,151.0,"6 May, 2023",YES,4601.19
+5085,Rashid Butt,,female,FLU, Islamabad,B-,146.7,83.1,157.0,2021-12-19,Y,352.09
+5247,Sidra Iqbal,52.0,Female,arthritis,Multan,A+,147.3,68.3,115.0,2024-06-23,No,721.48
+5307,Areeba Sheikh,41.0,f,Diabetes,QUETTA,A+,178.1,79.3,116.0,2021-05-19,Yes,$2476.64
+5216,Anila Shah,10.0,Female,Asthma,ISLAMABAD,AB-,174.7,64.1,,18/09/2022,NO,PKR 775.06
+5308,Zoya Hussain,31.0,Male,asthma,Faisalabad ,AB-,161.1,,119.0,11/18/2022,YES,$2636.1
+5384,Areeba Raza,40.0,F,diabetes,MULTAN,A-,174.0,,116.0,05/03/2024,NO,92.27
+5379,Rashid Gill  ,36.0,female,Asthma,Karachi,B+,169.6,,142.0,2022/03/11,Y,1800.95
+5056,Kamal Dar,73.0,F,HYPERTENSION,Rawalpindi ,,159.9,73.9,,2022/01/01,YES,
+5348,Mehwish Ahmed,57.0,,Asthma,LAHORE,AB+,174.8,66.5,117.0,"16 Oct, 2024",YES,$181.3
+5192,Farwa Farooq,-17.0,Male,Migrane, Karachi,A+,169.9,51.8,106.0,2024-02-17,0,2298.0
+5064,Farwa Gill,10.0,MALE,diabetes, Quetta,A-,157.7,487.6,113.0,2021/06/13,,703.82
+5346,Rida Hussain,38.0,FEMALE,Anaemia, Lahore,AB+,159.6,54.2,144.0,2022/04/26,YES,
+5043,Naveed Dar,70.0,male,arthritis,MULTAN,O+,167.9,74.6,130.0,2021-12-26,no,2398.55
+5280,Zoya Malik,20.0,FEMALE,Hypertension,RAWALPINDI,O-,,66.9,126.0,2022-01-03,Y,PKR 2246.85
+5344,Mehwish Baig,,M,arthritis,Karachi ,AB-,174.0,60.7,,6/9/2024,Y,4548.03
+5006,Mehwish Gill,45.0,female,hypertension,Multan,A-,169.4,36.3,126.0,"4 Jul, 2023",NO,PKR 4986.2
+5130,Mariam Javed,12.0,MALE,ARTHRITIS, Lahore,B-,169.5,,119.0,"9 Oct, 2024",yes,$2738.08
+5173,Areeba Dar  ,54.0,female,DIABETES,Lahore,B+,166.7,59.8,,4/18/2021,No,3091.1
+5225,Mariam Awan,32.0,f,BRONCHITIS, Karachi,B+,151.1,45.1,117.0,"3 Apr, 2022",YES,$4237.55
+5283,Shoaib Butt,29.0,Male,DIABETES, Multan,A-,,33.4,127.0,2022/01/21,yes,3992.17
+5018,Sana Farooq,,Male,Anemia,LAHORE,B+,151.9,72.8,147.0,2023/05/26,0,
+5037,Salman Hussain,73.0,Male,asthma,,O+,178.8,48.7,111.0,2022-01-09,No,$2745.2
+5311,Rashid Javed  ,18.0,F,Diabetis,lahore,O+,152.2,71.2,114.0,2023-02-04,YES,4092.01
+5357,Kamal Baig,30.0,f,Type 2 Diabetes,,A+,160.7,,143.0,6/6/2021,1,3017.1
+5321,Anila Farooq,21.0,,n/a,PESHAWAR,AB-,166.2,319.3,109.0,09/09/2021,Yes,PKR 4197.63
+5221,Hamid Sheikh,72.0,m,Influenza, Faisalabad,,174.0,57.3,107.0,16/09/2024,0,$4094.86
+5267,Areeba Baig,,Female,ANEMIA, Karachi,B+,158.6,61.0,129.0,26/08/2023,N,PKR 3158.87
+5046,Waleed Malik,26.0,F,Influenza,Peshawar,O+,160.5,95.3,79.0,2023/11/02,YES,PKR 888.18
+5129,Waleed Siddiqui,40.0,m,Anemia,karachi,,185.0,62.0,110.0,"11 Jan, 2022",NO,3384.65
+5303,Areeba Ahmed,42.0,f,,karachi,O+,168.7,74.1,146.0,09/06/2021,Yes,$1568.66
+5088,Ahmed Hussain,68.0,Male,HYPERTENSION,ISLAMABAD,O-,159.9,54.8,118.0,"18 Apr, 2022",YES,4965.39
+5096,Ahmed Javed,,M,ANEMIA,islamabad,A+,166.5,42.5,121.0,2023-11-23,0,PKR 2147.76
+5158,Waleed Raza,30.0,?,Flu, Faisalabad,B+,169.9,84.1,131.0,"12 Dec, 2021",1,PKR 530.25
+5299,Mariam Javed,46.0,f,arthritis, Lahore,O-,164.8,73.5,131.0,2024/11/24,NO,
+5117,Ahmed Ahmed,15.0,FEMALE,Asthma,peshawar,,178.6,83.7,120.0,02/08/2022,yes,$1967.82
+5243,Anila Javed,47.0,Female,Diabetis, Karachi,A+,177.3,101.8,130.0,2024-07-22,N,PKR 1251.91
+5041,Shoaib Ahmed,20.0,Male,arthritis,Quetta ,O-,166.9,,111.0,2021-12-27,No,PKR 4744.58
+5218,Ahmed Hussain,23.0,m,Influenza,peshawar,B+,174.4,56.7,99.0,1/5/2023,N,PKR 1352.97
+5310,Rashid Qureshi,48.0,Male,migraine, Karachi,O+,167.2,62.4,145.0,2021-12-20,no,2104.26
+5005,Mehwish Bhatti,51.0,Male,Athsma,RAWALPINDI,B+,157.6,70.3,147.0,20/02/2024,Y,$1923.65
+5372,Waleed Shah,53.0,M,influenza,faisalabad,AB-,161.9,64.2,103.0,02/11/2022,No,$4137.78
+5199,Kamal Khan,83.0,f,Migrane,Quetta,A-,178.1,62.7,121.0,10/26/2024,No,$3052.77
+5335,Bilal Dar,-19.0,Female,Diabetes,Multan ,B-,164.9,82.6,125.0,2021-01-08,NO,$4289.64
+5362,MARIAM GILL,31.0,M,Arthritis,islamabad,B+,156.6,61.7,119.0,2023-06-23,1,3345.36
+5087,Bilal Siddiqui,,m,asthma,quetta,A+,,70.3,134.0,2023/05/08,1,$3894.62
+5061,Farwa Khan,,female,High Blood Pressure,Multan,A+,179.2,,,2023-01-26,Y,3272.26
+5258,Rashid Farooq,21.0,male,ANEMIA,rawalpindi,AB-,161.4,58.3,92.0,12/03/2023,,1527.75
+5325,Mehwish Qureshi,34.0,f,bronchitis,Lahore ,A-,181.4,85.4,140.0,2021/11/26,--,$230.02
+5162,Saad Sheikh,84.0,?,Arthritis,lahore,O-,176.3,76.0,94.0,4/1/2021,no,$1146.74
+5194,Sana Farooq,68.0,f,Migrane, Faisalabad,,157.6,,99.0,8/5/2022,No,4587.84
+5364,Rashid Gill,44.0,m,asthma, Islamabad,A+,160.2,54.5,136.0,"14 Nov, 2024",Y,PKR 2044.5
+5246,Areeba Khan,136.0,MALE,Asthma, Peshawar,,172.0,81.8,116.0,2021-05-27,--,PKR 4500.34
+5368,Mariam Bhatti,,Male,ASTHMA, Islamabad,O+,184.3,52.1,141.0,2023-10-07,yes,PKR 52.61
+5099,Salman Niazi,45.0,M,ASTHMA,Peshawar,AB+,181.6,79.0,115.0,2021/05/02,yes,896.22
+5385,Kamal Qureshi,61.0,m,,Karachi,B+,160.9,67.7,133.0,26/06/2022,1,PKR 1934.67
+5213,Sidra Sheikh,47.0,male,Hyper tension,Peshawar ,B+,175.4,74.1,133.0,"6 Apr, 2021",1,3053.6
+5029,Rashid Ahmed,41.0,FEMALE,influenza,Rawalpindi ,O+,,46.6,118.0,09/09/2022,0,PKR 1006.52
+5182,Farwa Farooq  ,60.0,female,influenza,Faisalabad ,O+,162.1,81.9,120.0,5/18/2024,N,1369.12
+5040,Rashid Awan,41.0,FEMALE,BRONCHITIS,QUETTA,,185.6,70.4,124.0,2021/12/18,yes,4133.92
+5383,Zoya Chaudhry,65.0,Male,HYPERTENSION,islamabad,B+,160.5,452.9,116.0,2023-03-03,,3014.12
+5143,Sidra Farooq,,FEMALE,Influenza,Peshawar,AB+,174.0,78.5,120.0,2022/03/01,YES,$4794.8
+5195,Mehwish Awan,51.0,MALE,Bronchitis,Multan ,B-,150.9,93.1,111.0,2024/07/02,0,3336.71
+5065,Fahad Siddiqui,23.0,MALE,anemia, Multan,B-,186.2,61.8,106.0,"23 Aug, 2022",Y,$3801.76
+5313,Sana Bhatti,40.0,m,n/a,rawalpindi,,169.1,64.6,129.0,"6 Jul, 2022",no,$1505.1
+5094,Rida Ahmed,21.0,,BRONCHITIS,lahore,O-,173.7,51.4,,2022-11-27,NO,2642.61
+5265,Farwa Shah,19.0,,anemia,quetta,AB+,142.4,72.1,143.0,09/04/2021,yes,PKR 3894.88
+5039,Ahmed Farooq,44.0,FEMALE,MIGRAINE,peshawar,AB+,159.8,71.9,127.0,2023-01-16,no,1540.1
+5188,Waleed Ahmed,74.0,M,MIGRAINE,quetta,B-,176.2,75.7,,2022/09/23,Y,$2595.86
+5151,Saad Siddiqui,50.0,Male,ARTHRITIS, Multan,B+,152.4,81.0,115.0,2021-04-19,NO,337.84
+5393,Ahmed Malik,22.0,male,ANEMIA,rawalpindi,A-,152.8,69.1,119.0,"14 Feb, 2022",--,PKR 2646.75
+5217,Shoaib Dar,32.0,m,diabetes,ISLAMABAD,B+,161.5,47.8,120.0,24/06/2022,Y,PKR 1670.72
+5171,  kamal qureshi  ,171.0,f,Migraine,karachi,A-,174.0,65.7,,2023-11-14,0,PKR 506.5
+5007,Naveed Niazi,37.0,MALE,MIGRAINE,multan,B-,169.6,64.3,129.0,2023-02-01,,944.95
+5336,Rida Farooq,50.0,M,MIGRAINE,Rawalpindi ,A-,178.0,78.9,151.0,8/25/2022,Y,$1278.98
+5169,Fahad Iqbal,70.0,Male,, Quetta,O+,161.4,83.6,147.0,2024-01-17,yes,2683.01
+5317,Adnan Baig,43.0,,ARTHRITIS,ISLAMABAD,AB+,172.3,301.0,137.0,"5 Mar, 2021",No,2422.17
+5337,Hira Bhatti,38.0,FEMALE,Athsma, Lahore,A+,161.9,48.9,124.0,"14 Aug, 2023",Yes,3748.32
+5202,Ehsan Dar,83.0,male,Anemia,,O+,174.0,59.3,,2022/08/03,yes,PKR 693.77
+5185,Warda Raza,,Female,ARTHRITIS,,AB-,162.3,71.1,123.0,2022-01-13,,2283.52
+5226,Farwa Khan,15.0,Female,Type 2 Diabetes, Multan,B-,,65.9,106.0,6/12/2023,no,$586.59
+5204,Mehwish Awan,76.0,male,Bronchitis,,AB+,173.5,76.7,117.0,26/02/2023,N,2427.12
+5290,Saad Iqbal,41.0,M,Diabetes, Rawalpindi,A-,169.9,72.6,131.0,2022-03-15,Y,PKR 3860.16
+5176,Anila Siddiqui,43.0,MALE,Anaemia,Rawalpindi ,AB-,164.8,91.9,119.0,2024/09/04,YES,
+5021,Naveed Awan,39.0,male,BRONCHITIS,Lahore,AB+,162.2,77.6,138.0,"4 Sep, 2023",NO,PKR 2742.53
+5387,Shoaib Siddiqui,93.0,Female,hypertension,Peshawar ,AB-,150.8,71.9,134.0,8/15/2022,Yes,PKR 4847.92
+5207,  warda javed  ,58.0,MALE,migraine, Peshawar,AB+,163.2,66.7,108.0,5/4/2022,N,810.19
+5144,Saad Ahmed,57.0,male,bronchitis,Quetta ,,160.5,90.4,140.0,7/1/2022,no,
+5351,Zoya Shah,51.0,female,,unknown,AB+,175.3,84.3,130.0,2022-12-16,NO,
+5016,Zoya Qureshi,39.0,F,Hypertension,Peshawar ,O+,177.4,81.1,111.0,2023-09-17,0,4397.72
+5229,Waleed Butt,36.0,,ASTHMA,Rawalpindi,O-,152.1,96.1,100.0,2024/09/25,no,$2562.15
+5118,Adnan Raza,192.0,F,asthma,PESHAWAR,,151.9,76.4,100.0,3/26/2021,yes,1110.67
+5323,Hamid Iqbal,33.0,,FLU,Peshawar,AB+,167.1,60.8,119.0,03/07/2023,1,1019.94
+5334,Waleed Dar,74.0,male,Migrane, Multan,B+,162.4,60.6,133.0,2022-06-10,No,3916.78
+5073,Salman Farooq,34.0,FEMALE,Bronchitis,,O-,166.8,78.9,125.0,16/10/2023,1,3185.45
+5172,Salman Iqbal,74.0,m,,LAHORE,B+,157.9,80.1,115.0,2023/04/26,Yes,4587.01
+5189,Shoaib Shah,15.0,?,Athsma,Multan,B-,160.2,,108.0,2023/04/20,no,
+5146,Adnan Chaudhry  ,158.0,Female,Diabetes,Peshawar,O+,158.8,67.4,149.0,2023/08/24,N,4858.06
+5020,Sidra Malik,46.0,MALE,Athsma,ISLAMABAD,,154.0,,111.0,2/8/2021,0,1620.76
+5116,Adnan Raza,48.0,F,ASTHMA,PESHAWAR,AB-,143.8,,123.0,2021-01-14,N,2141.62
+5399,Warda Baig,31.0,f,anemia, Rawalpindi,O+,172.5,63.7,123.0,2024/08/22,N,$4043.84
+5097,Rida Khan,51.0,Male,,MULTAN,A-,155.2,,139.0,20/08/2023,N,
+5386,Bilal Sheikh,19.0,MALE,Athsma,karachi,AB-,170.2,76.5,125.0,10/23/2023,Y,$1310.02
+5212,Salman Khan,40.0,female,FLU,Rawalpindi,B-,11.3,81.5,104.0,2023-02-23,N,$1872.23
+5210,Kamal Baig,32.0,male,Anemia,LAHORE,AB+,166.5,58.6,131.0,"13 Apr, 2023",YES,PKR 4508.77
+5252,Warda Hussain,48.0,F,ASTHMA,Multan,AB+,146.1,84.7,134.0,8/1/2022,no,$253.78
+5183,Areeba Javed,34.0,f,Asthma,Lahore ,,152.2,,113.0,8/21/2021,Y,1073.84
+5175,Ahmed Shah,70.0,Male,arthritis,faisalabad,O-,168.5,68.6,105.0,10/22/2023,NO,3707.17
+5360,Hamid Sheikh,38.0,F,Athsma, Peshawar,AB+,170.9,80.2,108.0,2023-01-22,--,$4744.52
+5319,Yusra Malik,51.0,,ARTHRITIS,RAWALPINDI,O+,160.5,98.0,140.0,2024/07/04,--,
+5378,Naveed Awan,50.0,FEMALE,Athsma,Multan,A-,163.8,65.9,109.0,2022/12/05,0,4623.75
+5187,Ahmed Awan,73.0,Male,asthma,Lahore ,B+,170.0,77.7,133.0,2024-12-27,Yes,$653.98
+5125,Komal Gill,65.0,Male,anemia,faisalabad,AB+,156.9,55.1,142.0,2024-01-15,Y,$1312.94
+5022,Mariam Shah,54.0,?,Influenza,Faisalabad,,163.0,80.6,131.0,09/04/2024,NO,
+5103,Sana Dar,36.0,,FLU, Peshawar,O+,150.1,77.9,144.0,19/03/2023,NO,2097.87
+5009,Zoya Niazi,48.0,m,Migrane,unknown,B-,165.0,37.1,136.0,2023/10/27,NO,3516.01
+5050,Rida Sheikh,58.0,F,diabetes,RAWALPINDI,O-,177.7,61.0,155.0,5/23/2023,Y,887.55
+5095,Abid Ahmed,58.0,FEMALE,Type 2 Diabetes, Quetta,O+,171.5,65.2,119.0,2021/07/15,0,$4801.21
+5123,Mariam Qureshi,31.0,male,Bronchitis,Lahore,A+,166.1,77.9,144.0,2023-06-22,YES,$2822.86
+5007,NAVEED NIAZI,37.0,MALE,MIGRAINE,MULTAN,B-,169.6,64.3,129.0,2023-02-01,,944.95
+5090,Nimra Shah,41.0,FEMALE,Arthritis, Faisalabad,A-,171.3,51.3,132.0,2022/01/19,0,
+5248,Ahmed Siddiqui,52.0,female,Athsma,LAHORE,A-,166.0,75.8,,2021/03/06,yes,PKR 4853.18
+5015,Shoaib Sheikh,67.0,Male,Migraine, Rawalpindi,AB+,156.7,77.9,110.0,2024-12-13,Y,
+5104,Hamid Ahmed,50.0,Female,MIGRAINE,multan,O+,161.7,76.5,138.0,09/02/2024,No,2053.22
+5209,Waleed Farooq,45.0,f,Asthma,Karachi ,A+,156.7,78.7,129.0,25/12/2024,NO,PKR 1695.78
+5022,MARIAM SHAH,54.0,?,Influenza,FAISALABAD,,163.0,80.6,131.0,09/04/2024,NO,
+5400,Areeba Malik,56.0,M,,quetta,B-,171.1,73.5,,18/04/2023,N,3070.51
+5032,Shoaib Farooq,34.0,M,Influenza,Karachi ,AB+,151.3,84.4,121.0,2022/10/06,NO,1374.47
+5284,Nimra Sheikh,19.0,Male,bronchitis,rawalpindi,O+,172.9,79.3,144.0,2023/10/02,1,PKR 4035.14
+5233,Kamal Malik,57.0,MALE,Diabetis,Lahore ,B-,151.6,65.8,104.0,2023/08/21,0,PKR 1866.82
+5302,Fahad Sheikh,46.0,Female,Hyper tension,Karachi ,B+,190.9,66.0,89.0,"11 Apr, 2022",No,1200.31
+5078,Komal Malik,69.0,m,FLU,multan,O+,178.8,91.1,127.0,2021/11/17,,2847.92
+5254,Mehwish Qureshi,41.0,Male,Flu,Rawalpindi ,O-,166.8,72.7,105.0,2021-05-05,no,$4958.33
+5089,Bilal Javed,28.0,female,migraine,rawalpindi,AB+,173.9,69.6,114.0,"5 Jul, 2022",No,4067.93
+5133,Zoya Qureshi,66.0,F,Asthma,rawalpindi,B-,167.7,,121.0,2024-07-04,,4737.98
+5049,Zoya Bhatti,32.0,M,migraine,FAISALABAD,B-,,,134.0,2021/03/13,Y,PKR 2321.97
+5112,Hira Siddiqui,43.0,F,FLU, Islamabad,AB-,161.3,75.2,135.0,2023-08-27,,360.75
+5205,Rashid Awan  ,62.0,Female,bronchitis,RAWALPINDI,AB-,165.9,95.8,112.0,2024/05/18,NO,PKR 530.15
+5048,Adnan Siddiqui,50.0,FEMALE,Migraine,Peshawar ,O-,169.3,78.0,109.0,1/19/2021,No,PKR 3869.57
+5105,Salman Butt,41.0,m,arthritis,Quetta,B-,175.6,64.1,110.0,15/12/2021,Yes,PKR 1027.02
+5057,Komal Dar,42.0,Female,n/a,karachi,A+,143.4,84.4,153.0,"7 May, 2023",N,PKR 132.63
+5312,Rida Ahmed,68.0,f,arthritis,karachi,B+,168.3,65.4,113.0,16/12/2021,no,$3694.23
+5203,Nimra Siddiqui,147.0,M,Anemia,Faisalabad,A-,170.3,88.6,105.0,7/17/2021,NO,154.38
+5371,Fahad Siddiqui,,M,ARTHRITIS,Peshawar ,A-,174.7,92.3,124.0,2024/08/10,Yes,$2661.98
+5251,Ehsan Niazi,27.0,MALE,,Multan,A-,184.3,70.6,123.0,7/27/2021,yes,3631.21
+5179,Rida Dar  ,57.0,f,n/a,,B-,178.0,57.9,134.0,06/05/2023,NO,303.55
+5138,Mehwish Siddiqui,27.0,Male,Influenza,Peshawar,B+,142.3,65.9,130.0,"1 Jul, 2021",Yes,3065.5
+5286,Abid Ahmed,,male,anemia,Multan ,A-,166.6,70.2,,2024/12/12,,389.45
+5293,ZOYA CHAUDHRY,14.0,M,, QUETTA,AB+,169.7,57.5,106.0,2021/11/10,--,PKR 1744.61
+5282,Areeba Khan,,f,Migraine,Multan,O+,167.0,79.3,143.0,"21 Nov, 2021",N,$2822.26
+5004,Salman Ahmed,,FEMALE,asthma, Islamabad,AB+,165.9,75.2,111.0,2022/03/27,1,3626.41
+5190,Waleed Baig,13.0,F,asthma,Quetta ,A-,159.8,66.7,107.0,2021-07-06,Yes,PKR 3837.87
+5092,Nida Chaudhry,54.0,Female,asthma,quetta,AB-,162.4,43.7,137.0,4/16/2021,,PKR 4890.4
+5261,Naveed Ahmed,34.0,FEMALE,,FAISALABAD,AB-,150.1,,138.0,"7 Mar, 2021",yes,PKR 4964.96
+5367,Sana Hussain,56.0,m,Arthritis,multan,A+,184.4,56.5,118.0,"13 Mar, 2024",Y,PKR 3052.89
+5342,Kamal Farooq,51.0,?,Diabetes,RAWALPINDI,O+,159.1,51.3,143.0,"22 Aug, 2024",1,$3689.85
+5277,Mariam Dar,42.0,f,Diabetes,Karachi,B+,,82.5,112.0,6/4/2021,yes,$789.76
+5292,Yasir Dar,12.0,Female,Bronchitis,Karachi,AB+,166.0,96.2,119.0,07/02/2021,Y,PKR 1897.25
+5051,Farwa Ahmed,61.0,m,arthritis, Islamabad,A-,179.9,55.3,99.0,11/19/2021,yes,PKR 2115.06
+5058,YUSRA BHATTI,55.0,?,,LAHORE,A-,153.9,92.6,138.0,27/07/2021,Yes,895.38
+5196,Yusra Shah,32.0,male,Anemia,Faisalabad,B+,167.1,82.0,132.0,2022-12-21,yes,
+5373,Naveed Gill,53.0,female,ARTHRITIS,,B+,162.4,70.3,133.0,11/06/2021,Yes,2463.6
+5165,Yasir Shah,48.0,female,ARTHRITIS,Karachi ,AB-,158.7,62.5,138.0,3/9/2021,NO,3670.53
+5240,Bilal Baig,48.0,M,influenza,Lahore ,O-,153.7,72.4,120.0,"7 Nov, 2024",Y,3906.89
+5310,Rashid Qureshi,48.0,Male,migraine, Karachi,O+,167.2,62.4,145.0,2021-12-20,no,2104.26
+5060,  farwa farooq  ,75.0,FEMALE,Bronchitis,FAISALABAD,A+,173.1,,131.0,04/06/2021,no,
+5027,Salman Sheikh,35.0,female,,PESHAWAR,B+,148.3,,124.0,3/10/2022,Yes,$1001.37
+5145,Mehwish Baig,21.0,female,arthritis,faisalabad,A+,147.5,99.4,130.0,"2 May, 2021",No,$4957.0
+5026,Hamid Niazi,38.0,Female,arthritis,Lahore,AB-,153.1,94.4,123.0,2022-08-18,N,1560.68
+5353,Salman Butt,23.0,female,HYPERTENSION,Faisalabad ,B+,169.8,69.0,109.0,24/06/2023,N,$3002.25
+5304,Waleed Dar,,female,migraine, Peshawar,A+,158.4,66.9,126.0,"4 Jun, 2024",yes,PKR 4002.02
+5142,Mariam Ahmed,36.0,m,,MULTAN,O+,161.7,79.1,135.0,2021/04/07,N,PKR 4890.13
+5329,Ehsan Gill,25.0,M,ASTHMA,faisalabad,O+,162.0,77.3,132.0,2023-02-13,,2678.68
+5316,Naveed Butt,69.0,f,,peshawar,A+,172.9,75.0,129.0,2023-11-10,,832.71
+5157,Anila Bhatti,22.0,MALE,n/a,Multan ,O+,160.7,,127.0,2024/04/17,NO,1547.07
+5082,Bilal Ahmed,71.0,M,,faisalabad,,159.2,80.5,151.0,14/02/2024,NO,3934.04
+5131,Kamal Butt,,F,migraine,Peshawar,B+,167.4,84.5,122.0,24/06/2024,N,$3163.45
+5356,Rashid Javed,44.0,M,hypertension,unknown,AB+,167.4,51.0,127.0,2022-02-22,Yes,2425.57
+5135,Abid Shah,24.0,MALE,Hypertension,QUETTA,O+,176.3,68.1,114.0,"17 Feb, 2023",Y,$62.02
+5298,Bilal Iqbal,51.0,MALE,Flu,Rawalpindi ,A-,175.0,489.3,128.0,"7 Mar, 2023",1,PKR 1657.53
+5174,Waleed Ahmed,60.0,M,n/a,Multan,A+,156.1,69.5,116.0,2022/12/25,YES,PKR 4858.83
+5218,Ahmed Hussain,23.0,m,Influenza,peshawar,B+,174.4,56.7,99.0,1/5/2023,N,PKR 1352.97
+5086,Areeba Javed,41.0,F,Hyper tension,QUETTA,O+,15.3,89.3,115.0,11/3/2023,Y,4889.97
+5257,  sana hussain  ,-34.0,m,hypertension,,A+,172.6,77.0,133.0,"16 Feb, 2022",--,4861.41
+5262,Rashid Awan  ,33.0,MALE,ANEMIA,unknown,AB+,160.4,77.0,137.0,24/01/2024,N,$1256.03
+5148,Sana Malik,48.0,FEMALE,bronchitis,QUETTA,B+,174.9,66.4,,25/07/2024,1,
+5223,Rashid Hussain,19.0,?,ARTHRITIS,Rawalpindi ,A-,160.8,74.3,102.0,2024/11/02,YES,4866.57
+5191,Zoya Baig,45.0,f,,,O-,,85.3,117.0,25/01/2024,,PKR 235.44
+5318,Nida Shah,51.0,MALE,Type 2 Diabetes,Rawalpindi,AB-,166.0,80.5,136.0,2024-10-24,,2168.33
+5279,Shoaib Butt,62.0,female,arthritis,,A+,163.3,73.8,131.0,02/12/2022,1,PKR 2192.58
+5366,Bilal Gill,47.0,MALE,Bronchitis, Karachi,B+,160.0,92.1,142.0,2023-01-19,YES,
+5398,Salman Hussain,74.0,?,diabetes, Rawalpindi,O+,170.7,60.3,129.0,2021-11-13,No,PKR 4097.18
+5139,Nimra Javed,54.0,Female,migraine,Multan,O+,158.0,110.0,131.0,08/12/2021,YES,$949.71
+5369,Waleed Shah,51.0,,Anaemia,Multan ,O+,,68.9,117.0,6/14/2021,Yes,1502.2
+5167,Anila Butt,28.0,female,asthma, Lahore,O-,167.4,60.0,136.0,23/09/2021,Yes,1793.61
+5343,Mariam Shah,-36.0,f,influenza,KARACHI,AB-,168.3,67.1,131.0,2022/02/24,0,4783.25
+5244,Shoaib Khan,,Male,Diabetes,Faisalabad ,B-,161.0,46.2,,11/3/2023,Y,1391.77
+5382,Nimra Farooq,42.0,m,Hypertension,islamabad,A+,152.3,61.8,126.0,16/10/2021,Y,$192.97
+5263,Waleed Qureshi,4.0,F,anemia,Quetta,O-,164.6,80.1,130.0,25/08/2024,no,PKR 3221.13
+5124,NAVEED IQBAL,,m,MIGRAINE,faisalabad,O+,176.0,89.7,118.0,25/12/2021,Y,$344.33
+5328,Mariam Farooq,33.0,MALE,DIABETES, Peshawar,,164.9,72.8,108.0,"27 Mar, 2023",0,3132.96
+5114,Sidra Hussain,40.0,Female,diabetes,Peshawar,B+,175.7,97.8,140.0,"25 Apr, 2021",Yes,3092.23
+5256,Kamal Awan,58.0,Male,hypertension,ISLAMABAD,A-,158.4,62.2,,"4 Dec, 2023",Yes,1949.72
+5025,Salman Niazi  ,40.0,Male,FLU,Islamabad ,A-,180.2,82.5,251.0,"18 Sep, 2022",no,
+5306,Nimra Sheikh,58.0,male,asthma, Rawalpindi,O-,168.7,83.2,123.0,2022-05-03,Yes,2278.99
+5214,Farwa Niazi,50.0,M,ANEMIA, Karachi,,155.4,70.7,107.0,"24 Mar, 2022",yes,PKR 2290.33
+5345,Rida Farooq,22.0,Male,Hypertension,ISLAMABAD,AB+,179.6,69.7,144.0,2023-01-18,Y,
+5379,Rashid Gill  ,36.0,female,Asthma,Karachi,B+,169.6,,142.0,2022/03/11,Y,1800.95
+5180,Yusra Baig,33.0,F,ASTHMA,peshawar,A+,,70.0,144.0,3/22/2023,no,1102.26
+5121,Ahmed Siddiqui,46.0,MALE,Asthma,lahore,B+,152.7,,119.0,"4 Feb, 2023",yes,3591.91
+5374,Anila Siddiqui,66.0,Male,influenza,Karachi ,B-,157.0,475.3,110.0,"27 May, 2021",N,PKR 4735.11
+5181,MARIAM SHAH,44.0,F,BRONCHITIS,QUETTA,,160.3,73.2,113.0,2023/05/16,1,2241.94
+5291,  rida javed  ,44.0,m,Bronchitis,Rawalpindi ,AB+,166.1,49.6,107.0,"18 Dec, 2024",Y,3323.55
+5023,Rashid Awan,36.0,male,Diabetis, Islamabad,A+,145.2,82.1,127.0,15/10/2021,0,PKR 4351.24
+5315,Ahmed Khan,17.0,FEMALE,asthma,Rawalpindi,A-,166.6,65.3,129.0,2022/12/14,Yes,2062.05
+5333,Salman Javed,41.0,FEMALE,Migraine,Multan ,,182.2,68.6,88.0,"21 May, 2022",,PKR 4553.63
+5297,Komal Baig,46.0,M,bronchitis,FAISALABAD,A+,148.9,65.3,128.0,1/16/2023,Yes,4840.47
+5012,Yusra Bhatti,32.0,MALE,Bronchitis, Lahore,O+,160.7,76.8,129.0,2022/01/18,0,2980.29
+5281,Sidra Iqbal,23.0,F,asthma,,B-,,78.7,301.0,01/03/2024,no,1108.24
+5147,Adnan Hussain,49.0,f,Anaemia,ISLAMABAD,O+,181.5,71.0,125.0,12/09/2024,Y,$1243.5
+5002,Ehsan Malik,57.0,M,ASTHMA,FAISALABAD,O+,166.8,68.8,124.0,04/11/2023,yes,$2982.96
+5076,Hira Bhatti,45.0,m,ASTHMA, Karachi,AB+,185.4,71.6,131.0,2024-06-20,,$3645.43
+5140,Shoaib Sheikh,33.0,f,Migrane,Karachi ,,23.7,75.3,125.0,2021-09-07,no,PKR 2832.78
+5150,Adnan Baig,42.0,m,HYPERTENSION,karachi,B-,164.2,,116.0,04/05/2021,,$4906.36
+5394,Ehsan Sheikh  ,31.0,M,migraine,rawalpindi,A+,175.7,59.6,125.0,2021-03-02,1,
+5161,Mehwish Qureshi,,F,ASTHMA,Faisalabad,,164.6,89.2,116.0,2024/08/09,yes,PKR 2443.37
+5259,  shoaib butt  ,42.0,FEMALE,,,B-,181.1,71.0,130.0,"5 Aug, 2021",Y,PKR 1399.81
+5309,Salman Javed,-60.0,FEMALE,ARTHRITIS,Rawalpindi ,A-,171.1,71.7,155.0,"16 Nov, 2022",yes,1864.49
+5332,Salman Raza,62.0,Male,anemia,LAHORE,AB+,173.1,80.0,138.0,19/04/2024,no,$1521.58
+5330,Rida Bhatti,52.0,m,ANEMIA,Lahore ,O+,173.9,59.8,131.0,2024/05/03,Y,$679.0
+5002,EHSAN MALIK,57.0,M,ASTHMA,FAISALABAD,O+,166.8,68.8,124.0,04/11/2023,yes,$2982.96
+5230,Fahad Hussain,-17.0,m,Athsma, Multan,AB-,182.9,47.7,113.0,"26 Sep, 2024",Y,386.81
+5127,Nida Javed,57.0,m,BRONCHITIS,Islamabad,O-,178.7,66.8,125.0,2022-09-17,YES,3275.73
+5277,MARIAM DAR,42.0,f,Diabetes,KARACHI,B+,,82.5,112.0,6/4/2021,yes,$789.76
+5147,Adnan Hussain,49.0,f,Anaemia,ISLAMABAD,O+,181.5,71.0,125.0,12/09/2024,Y,$1243.5
+5237,Hamid Raza,54.0,f,Anemia,Islamabad,B+,155.3,72.8,136.0,2021-07-26,No,1817.41
+5154,Shoaib Butt,10.0,Male,DIABETES,quetta,,171.9,82.3,143.0,26/09/2021,YES,$2219.09
+5245,Kamal Awan,,Male,arthritis,,O-,166.8,60.4,121.0,2021/12/20,yes,2998.45
+5355,Adnan Niazi,50.0,FEMALE,ARTHRITIS,karachi,B-,158.4,87.4,117.0,07/05/2022,no,PKR 405.72
+5231,Warda Chaudhry,51.0,M,Influenza,ISLAMABAD,O-,151.4,95.4,117.0,3/18/2024,NO,PKR 901.57
+5017,Abid Khan,51.0,f,asthma, Faisalabad,AB+,170.4,63.3,,2021-02-11,Y,PKR 4577.34
+5075,Anila Siddiqui,30.0,female,Migrane, Rawalpindi,O-,174.3,57.7,127.0,9/19/2024,N,860.71
+5177,Yasir Malik,19.0,M,Arthritis,Karachi ,AB+,163.1,41.4,114.0,"22 Dec, 2024",1,PKR 2775.69
+5339,Hamid Iqbal,,MALE,DIABETES, Quetta,O+,162.3,80.8,141.0,2021-12-05,N,PKR 3866.47
